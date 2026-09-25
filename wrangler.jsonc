@@ -5,5 +5,11 @@
   "preview_urls": true,
   "assets": {
     "directory": "./public"
-  }
+  },
+  "routes": [
+    {
+      "pattern": "claudioscleaningservices.com",
+      "custom_domain": true
+    }
+  ]
 }
